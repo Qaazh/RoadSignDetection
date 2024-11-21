@@ -57,7 +57,7 @@ Road-Sign-Detection/
 ├── traffic_classifier.keras  # Pre-trained single-object model
 ├── final_main.py           # Multi-object detection script (in progress)
 ├── requirements.txt        # Python dependencies
-├── README.md               # Project documentation
+├── README.md               # Project documentation ```
 
 
 ## **Acknowledgments**
