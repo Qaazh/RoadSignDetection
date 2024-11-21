@@ -50,13 +50,15 @@ A machine learning-based system for detecting and classifying road signs. Design
 - Integrate real-time video feed for live road sign detection.
 
 ## **Project Structure**
+```plaintext
 Road-Sign-Detection/
-├── gui.py              # GUI application for predictions
-├── training.py         # Model training script
+├── gui.py                  # GUI application for predictions
+├── training.py             # Model training script
 ├── traffic_classifier.keras  # Pre-trained single-object model
-├── final_main.py       # Multi-object detection script (in progress)
-├── requirements.txt    # Python dependencies
-├── README.md           # Project documentation
+├── final_main.py           # Multi-object detection script (in progress)
+├── requirements.txt        # Python dependencies
+├── README.md               # Project documentation
+
 
 ## **Acknowledgments**
 The dataset was sourced from the German Traffic Sign Recognition Benchmark (GTSRB).
